@@ -1,0 +1,686 @@
+Error Reading Sheet: name 'FILELOCATOR' is not defined
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Finished
+Connected to CreditSafe
+Error Updating Sheet: 'str' object has no attribute 'keys'
+Connected to CreditSafe
+Error Updating Sheet: 'str' object has no attribute 'keys'
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Error Updating Sheet: list index out of range
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Error Updating Sheet: list index out of range
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Succesfully Updated CreditSafe Result.xlsx with 07223190
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Connected to CreditSafe
+Company RegNo 07223190kk not found in country GB
+Connected to CreditSafe
+Company RegNo 07223190kk not found in country GB. longer than the required maximum length of 8
+Could not update CreditSafe Result.xlsx with 07223190kk
+Succesfully Updated CreditSafe Result.xlsx with OC303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Connected to CreditSafe
+Company RegNo 07223190kk not found in country GB. longer than the required maximum length of 8
+Could not update CreditSafe Result.xlsx with 07223190kk
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with kk303471
+Succesfully Updated CreditSafe Result.xlsx with 00445790
+Succesfully Updated CreditSafe Result.xlsx with OC398623
+Succesfully Updated CreditSafe Result.xlsx with 01557279
+Succesfully Updated CreditSafe Result.xlsx with 11192579
+Succesfully Updated CreditSafe Result.xlsx with SC314813
+Finished
+Connected to CreditSafe
+Company Id request failed: 'details'
+Could not update CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company Id request failed: 'details'
+Could not update CreditSafe Result.xlsx with {'regno': 'kk303471', 'country': 'GB'}
+Company Id request failed: 'details'
+Could not update CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Company Id request failed: 'details'
+Could not update CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Company Id request failed: 'details'
+Could not update CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Company Id request failed: 'details'
+Could not update CreditSafe Result.xlsx with {'regno': '11192579', 'country': 'GB'}
+Company Id request failed: 'details'
+Could not update CreditSafe Result.xlsx with {'regno': 'SC314813', 'country': 'GB'}
+Connected to CreditSafe
+Error Updating Sheet: "There is no item named '[Content_Types].xml' in the archive"
+Connected to CreditSafe
+Error Updating Sheet: "There is no item named '[Content_Types].xml' in the archive"
+Connected to CreditSafe
+Error Updating Sheet: "There is no item named '[Content_Types].xml' in the archive"
+Connected to CreditSafe
+Error Updating Sheet: "There is no item named '[Content_Types].xml' in the archive"
+Connected to CreditSafe
+Error Updating Sheet: "There is no item named '[Content_Types].xml' in the archive"
+Connected to CreditSafe
+Error Updating Sheet: "There is no item named '[Content_Types].xml' in the archive"
+Failed to retrieve details: Forbidden
+Parsing failed: unsupported operand type(s) for +: 'NoneType' and 'str'
+Error Updating Sheet: 'NoneType' object has no attribute 'copy_worksheet'
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Parsing failed: unsupported operand type(s) for +: 'NoneType' and 'str'
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Parsing failed: unsupported operand type(s) for +: 'NoneType' and 'str'
+Succesfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'kk303471', 'country': 'GB'}
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'kk303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'kk303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '11192579', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'SC314813', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'kk303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '11192579', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'SC314813', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'kk303471', 'country': 'GB'}
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'kk303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '11192579', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'SC314813', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'kk303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '11192579', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'SC314813', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'kk303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '11192579', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'SC314813', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+No Companies to Retrieve
+Connected to CreditSafe
+Error Updating Sheet: "There is no item named '[Content_Types].xml' in the archive"
+Could not access CreditSafe Result.xlsx
+Connected to CreditSafe
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '07223190', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Error Updating Sheet: list index out of range
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '07223190', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Error Updating Sheet: list index out of range
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '07223190', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Error Updating Sheet: list index out of range
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '07223190', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Error Updating Sheet: list index out of range
+Connected to CreditSafe
+Connected to CreditSafe
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '11192579', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '11192579', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'SC314813', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '07223190', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '11192579', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'SC314813', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '07223190', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC398623', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '01557279', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '11192579', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'SC314813', 'country': 'GB'}
+Finished
+Authentication failed: Invalid URL 'None': No schema supplied. Perhaps you meant http://None?
+Connected to CreditSafe
+Company RegNo 07223190 not found in country =VLOOKUP(UPPER(A3),Countries!A:B,2,FALSE). should match pattern "^([a-zA-Z\s]+,)*[a-zA-Z\s]+$"
+Could not update CreditSafe Result.xlsx with {'regno': '07223190', 'country': '=VLOOKUP(UPPER(A3),Countries!A:B,2,FALSE)'}
+Company RegNo OC303471 not found in country =VLOOKUP(UPPER(A4),Countries!A:B,2,FALSE). should match pattern "^([a-zA-Z\s]+,)*[a-zA-Z\s]+$"
+Could not update CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': '=VLOOKUP(UPPER(A4),Countries!A:B,2,FALSE)'}
+Company RegNo 00445790 not found in country =VLOOKUP(UPPER(A5),Countries!A:B,2,FALSE). should match pattern "^([a-zA-Z\s]+,)*[a-zA-Z\s]+$"
+Could not update CreditSafe Result.xlsx with {'regno': '00445790', 'country': '=VLOOKUP(UPPER(A5),Countries!A:B,2,FALSE)'}
+Error Reading Sheet: name 'true' is not defined
+Connected to CreditSafe
+Error Updating Sheet: "There is no item named '[Content_Types].xml' in the archive"
+Could not access CreditSafe Result.xlsx
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '07223190', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '07223190', 'country': 'GB'}
+Finished
+No Companies to Retrieve
+Connected to CreditSafe
+Company RegNo OC303471 not found in country #N/A. should match pattern "^([a-zA-Z\s]+,)*[a-zA-Z\s]+$"
+Could not update CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': '#N/A'}
+Connected to CreditSafe
+Error Updating Sheet: "There is no item named '[Content_Types].xml' in the archive"
+Could not access CreditSafe Result.xlsx
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'IE583671', 'country': 'IE'}
+Finished
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'OC303471', 'country': 'GB'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'IE583671', 'country': 'IE'}
+Finished
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '07837246', 'country': 'GB'}
+Finished
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '07837246', 'country': 'GB'}
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'N8264343H', 'country': 'ES'}
+Finished
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': '07837246', 'country': 'GB'}
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'N8264343H', 'country': 'ES'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'IE483483', 'country': 'IE'}
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company RegNo IE00544516 not found in country GB. longer than the required maximum length of 8
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company RegNo IE00544516 not found in country GB. longer than the required maximum length of 8
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company RegNo IE00544516 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': 'IE00544516', 'country': 'GB'}
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company RegNo IE00544516 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': 'IE00544516', 'country': 'GB'}
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company RegNo IE00544516 not found in country IE. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': 'IE00544516', 'country': 'IE'}
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': '00544516', 'country': 'IE'}
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'IE544516', 'country': 'IE'}
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company RegNo A28015865 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'GB'}
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Error Reading Sheet: openpyxl does not support .xlmx file format, please check you can open it with Excel first. Supported formats are: .xlsx,.xlsm,.xltx,.xltm
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Failed to retrieve details: Forbidden
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'A280158650', 'country': 'ES'}
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Parsing failed: 'regno'
+[ES-A28015865:OK]
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[OK]
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'A280158650', 'country': 'ES'}
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'A280158650', 'country': 'ES'}
+[GB-00445790:OK]
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+[OK]
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[ES-A28015865:OK]
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+[GB-00445790:OK]
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+[OK]
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'A280158650', 'country': 'ES'}
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'A280158650', 'country': 'ES'}
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'A280158650', 'country': 'ES'}
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'A280158650', 'country': 'ES'}
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'A280158650', 'country': 'ES'}
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+Company Id request failed: list index out of range
+Could not update CreditSafe Result.xlsx with {'regno': 'A280158650', 'country': 'ES'}
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[ES-A28015865:OK]
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[OK]
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[ES-A28015865:OK]
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[OK]
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[ES-A28015865:OK]
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+[GB-00445790:OK]
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+[OK]
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[ES-A28015865:OK]
+Successfully Updated CreditSafe Result.xlsx with {'regno': 'A28015865', 'country': 'ES'}
+[GB-00445790:OK]
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+[OK]
+Finished
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[GB-004457900:Bad Request]
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[GB-004457900:Bad Request]
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[GB-004457900:Bad Request]
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[GB-004457900:Bad Request]
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[GB-004457900:Bad Request]
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[GB-004457900:Bad Request]
+Company RegNo 004457900 not found in country GB. Bad Request
+Could not update CreditSafe Result.xlsx with {'regno': '004457900', 'country': 'GB'}
+[empty]
+Nothing Retrieved
+CreditSafe Armstrong Connector v1.0 (c) 2022 Delta AI
+Connected to CreditSafe
+[ES-A28015865:Forbidden]
+Failed to retrieve details: Forbidden
+[GB-00445790:OK]
+Successfully Updated CreditSafe Result.xlsx with {'regno': '00445790', 'country': 'GB'}
+[OK]
+Finished
