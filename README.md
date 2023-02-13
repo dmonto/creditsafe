@@ -8,3 +8,5 @@
 ## Requirements
 ### CreditSafe Credentials
 ### Office365 License
+## Usage
+### Open Creditsafe.xlsm and follow the instructions
